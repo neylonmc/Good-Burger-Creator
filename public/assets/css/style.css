@@ -18,7 +18,35 @@ li {
     margin-bottom: 5px;
   }
 
-h1 {
-  text-align: center;
-  font-family: 'Space Mono', monospace;
-}
+  #container {
+    position: absolute;
+    height: 100%;
+    width: 800px;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  h1 {
+    font-size: 80px;
+    font-family: Roboto, sans-serif;
+    color: rgba(163, 6, 6, 0.9);
+    letter-spacing: 2px;
+    text-shadow: 0px 0px 9px #ac4f24, 0px 0px 15px #f50a51, 0px 0px 5px #f50a0a;
+    animation: glow 10s infinite;
+  }
+  
+  @keyframes glow {
+    0% {
+      text-shadow: 0px 0px 9px #e85500, 0px 0px 15px #f5b60a, 0px 0px 5px #f50abe;
+    }
+    50% {
+      text-shadow: 0px 0px 9px #f50abe, 0px 0px 15px #e86800, 0px 0px 5px #f50abe;
+    }
+    85% {
+      text-shadow: 0px 0px 9px #e80000, 0px 0px 15px #f50abe, 0px 0px 5px #e89700;
+    }
+  }
