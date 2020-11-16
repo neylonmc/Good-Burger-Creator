@@ -10,8 +10,8 @@ function printQuestionMarks(num) {
 }
 
 function objToSql(ob) {
-    var value = ob[key];
-
+    var arr = [];
+    
     for (var key in ob) {
         var value = ob[key];
     
