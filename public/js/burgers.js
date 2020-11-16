@@ -4,7 +4,7 @@ $(function() {
         var newBurger = $(this).data("newburger"); 
 
         var newBurgerMade = {
-            devoured: newDevoured            
+            devoured: newBurger            
         };
 
         $.ajax("/api/burgers/" + id, {
