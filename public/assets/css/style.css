@@ -77,5 +77,10 @@ li {
   padding: 20px
 }
 
+.burgerList,
+.devoured {
+  text-align: center;
+}
+
 
  
