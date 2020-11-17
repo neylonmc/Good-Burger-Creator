@@ -1,11 +1,11 @@
 <div style="background:transparent !important" class="jumbotron jumbotron-fluid">
   <div class="container">
-    <h1 class="display-4"> OPEN: Eat Y'alls Burgers </h1>
+    <h1 class="display-4"> OPEN: Lettuce, Meet Patty </h1>
   </div>
 </div>
 
 
-
+<div class = "list1">
 <h2> Burger Wish-List </h2>
 
 <ul>
@@ -15,18 +15,19 @@
         {{/unless}}
         {{/each}}
 </ul>
+</div>
 
+<div class = "list2">
 <h2> Woah, I have devoured that burger! </h2>
-
-
-<ul>
     {{#each burgers}}
     {{#if devoured}}
     {{> burgers/burgers-block devoured=false}}
     {{/if}}
     {{/each}}
 </ul>
+</div>
 
+<div class = "add">
 <h2> Add a Burger! </h2>
 <form class ="create-form">
 
@@ -43,3 +44,4 @@
 
   <button type="submit">Add Burger</button>
 </form>
+</div>

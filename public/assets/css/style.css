@@ -60,6 +60,22 @@ li {
     }
   }
 
+.list1 {
+  float:left;
+  padding: 10px;
+}
+
+.list2 {
+  float: right;
+  padding: 10px;
+
+}
+
+.add {
+  float: center;
+  text-align: center;
+  padding: 20px
+}
 
 
  
