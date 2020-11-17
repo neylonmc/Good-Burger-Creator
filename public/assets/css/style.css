@@ -60,12 +60,12 @@ li {
     }
   }
 
-.list1 {
+#list1 {
   float:left;
   padding: 10px;
 }
 
-.list2 {
+#list2 {
   float: right;
   padding: 10px;
 
@@ -74,7 +74,7 @@ li {
 .add {
   float: center;
   text-align: center;
-  padding: 20px
+  padding: 20px;
 }
 
 .burgerList,
