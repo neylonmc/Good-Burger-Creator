@@ -1,6 +1,7 @@
 li {
     padding: 5px;
     margin: 5px;
+    background-image: url(/public/assets/images/checkered.jpg);
     
   }
   
@@ -83,7 +84,7 @@ li {
   text-align: center;
   font-family: 'Yellowtail', cursive;
   animation: glow2 10s infinite;
-  font-size: 40px;
+  font-size: 50px;
 }
 
 @keyframes glow2 {
@@ -106,6 +107,10 @@ li {
 .delete-burger {
   background-color: #d5f4e6;
   float: right;
+}
+
+.card-body {
+  background-color: red;
 }
 
 
