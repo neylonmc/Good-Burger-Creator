@@ -82,5 +82,13 @@ li {
   text-align: center;
 }
 
+.change-burger {
+  background-color: #FEC8D8;
+}
+
+.delete-burger {
+  background-color: #d5f4e6;
+}
+
 
  
