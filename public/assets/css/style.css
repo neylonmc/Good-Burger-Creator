@@ -23,9 +23,6 @@ li {
     margin-bottom: 5px;
   }
 
-  .jumbotron {
-    background-color: black;
-  }
 
 
   #container {
@@ -128,17 +125,15 @@ button {
 }
 
 .delete-burger {
-  background-color: #d5f4e6;
+  background-color: #e86800;
 }
 
 .pull-right {
   float: right;
 }
 
-
-
 .card-body {
-  background-color: red;
+  background-color: #d5f4e6;
 }
 
 
