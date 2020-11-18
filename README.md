@@ -1,5 +1,5 @@
 
-#  <img src="./public/assets/images/header.png" alt="header">
+#  <img src="./public/assets/images/header.gif" alt="header">
 ### Description
   Lettuce, Meet Patty is the perfect place for a burger-fanatic to keep a list of burgers they would like to eat or burgers they have already devoured. This diner feel application uses MySQL, Node, Express, Handlebars and ORM to create the ultimate burger list.
 
@@ -37,6 +37,11 @@ Now the application can be accessed in the browser at localhost:3000. The diner 
  You can now add burgers to your wish-list or place burgers you have eaten in the Devoured Burgers section. An easy way to keep track of your favorite or soon-to-be favorite burgers.
 
   <img src="./public/assets/images/step2.gif" alt="website">
+
+  Don't like a burger anymore? No worries! Simply erase it to remove it from either list. 
+
+ <img src="./public/assets/images/start3.gif" alt="website">
+
 
 ## License
   [![License](https://img.shields.io/badge/License-MIT%202.0-blue.svg)](https://opensource.org/licenses/MIT)
