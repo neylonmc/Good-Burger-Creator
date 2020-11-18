@@ -1,3 +1,4 @@
+//Set up MYSQL connection. 
 var mysql = require("mysql"); 
 
 var connection;
@@ -13,6 +14,7 @@ if (process.env.JAWSDB_URL) {
 });
 };
 
+//Make the connection. 
 connection.connect(function(err) {
     if (err) {
         console.error("error connecting: " + err.stack);
@@ -23,5 +25,6 @@ connection.connect(function(err) {
 
 });
 
+//Export connection
 module.exports = connection;
 

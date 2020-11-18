@@ -23,8 +23,6 @@ li {
     margin-bottom: 5px;
   }
 
-
-
   #container {
     height: 100%;
     width: 800px;
@@ -63,19 +61,11 @@ li {
     }
   }
 
-#list1 {
-  float:left;
-  padding: 10px;
-}
-
-#list2 {
-  float: right;
-  padding: 10px;
-}
-
 ul {
   font-family: 'Viga', sans-serif;
   font-size: 25px;
+  display: inline;
+  list-style-type: none; 
 }
 
 .add {
@@ -90,6 +80,7 @@ ul {
   font-family: 'Yellowtail', cursive;
   animation: glow2 10s infinite;
   font-size: 50px;
+  white-space: nowrap;
 }
 
 .addBurger {
