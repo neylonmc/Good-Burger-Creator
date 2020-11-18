@@ -30,11 +30,11 @@ To start this application, open your terminal and type $ node server . This shou
 
   <img src="./public/assets/images/start.gif" alt="gif of deployed app">
 
-Now the application can be accessed in the browser at localhost:3000. The diner themed website will display! 
+Now the application can be accessed in the browser at localhost:3000. The diner themed website will display! You can now add a new burger and add it to either the Devoured list or the Wish-List! 
 
  <img src="./public/assets/images/step1.gif" alt="website">
 
- You can now add burgers to your wish-list or place burgers you have eaten in the Devoured Burgers section. An easy way to keep track of your favorite or soon-to-be favorite burgers.
+ Did you devour a burger on your wait-list? Just click the "Devoured" button and watch it move to the devoured burgers list. An easy way to keep track of your favorite or soon-to-be favorite burgers.
 
   <img src="./public/assets/images/step2.gif" alt="website">
 
