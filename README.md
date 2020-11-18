@@ -53,5 +53,5 @@ Now the application can be accessed in the browser at localhost:3000. The diner 
   N/A
   
 ## Questions
-  GitHub: [neylonmc]("https://github.com/neylonmc")
-  Email: [neylonmc@gmail.com]("mailto:neylonmc@gmail.com") 
+  * GitHub: [neylonmc]("https://github.com/neylonmc")
+  * Email: [neylonmc@gmail.com]("mailto:neylonmc@gmail.com") 
