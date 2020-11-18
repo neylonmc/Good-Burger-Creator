@@ -22,7 +22,10 @@
 
 ## Installation
   ```
-  The user will need to npm install express, express-handlebars and mysql to have the application work.
+  npm init
+  npm install express
+  npm install express-handlebars
+  npm install mysql
   ```
   
 ## Usage
