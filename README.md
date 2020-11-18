@@ -35,4 +35,8 @@
   
 ## Questions? Contact Me
   GitHub: [neylonmc]("https://github.com/neylonmc")
+<<<<<<< HEAD
   Email: [neylonmc@gmail.com]("mailto:neylonmc@gmail.com") 
+=======
+  Email: [neylonmc@gmail.com]("mailto:neylonmc@gmail.com") 
+>>>>>>> 9410a9de7db8369e222b37fa9e40185f6ec32dea
