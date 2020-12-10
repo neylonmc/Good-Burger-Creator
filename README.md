@@ -11,6 +11,8 @@
 * [Installation](#installation)
   
 * [Usage](#usage)
+
+* [Technology](#technology)
   
 * [License](#license)
   
@@ -45,6 +47,15 @@ Now the application can be accessed in the browser at localhost:3000. The diner 
 
  <img src="./public/assets/images/start3.gif" alt="website">
 
+## Technology
+
+
+### APIs and Libraries
+-   Bootstrap
+-   Handlebars
+-   Sequelize
+-   MySQL
+-   Express
 
 ## License
   [![License](https://img.shields.io/badge/License-MIT%202.0-blue.svg)](https://opensource.org/licenses/MIT)
